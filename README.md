@@ -1,4 +1,5 @@
-# covid_daily_breifing
+# python_covid_daily_breifing
+by Frederico Leite Richardson
 A flask application that loads data from various APIs and announces them to the user with tts once an alarm runs out. It also displays 'smart notifications' that will appear when something out of the ordinary happens.
 
 Welcome!
